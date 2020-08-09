@@ -1,1 +1,3 @@
-# understanding_jvm_class_loader
+# understanding_jvm_class_loade
+
+Authors: Ivan Qin, Nicole Hu
